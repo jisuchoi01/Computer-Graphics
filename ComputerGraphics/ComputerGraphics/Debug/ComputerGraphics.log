@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\cadet\project\computer-graphics\.git\computergraphics\computergraphics\main.c(20): warning C4113: 'void (__cdecl *)()'은(는) 'void (__cdecl *)(void)'과(와) 매개 변수 목록이 다릅니다.
+  ComputerGraphics.vcxproj -> C:\Users\cadet\project\Computer-Graphics\.git\ComputerGraphics\Debug\ComputerGraphics.exe
+  ComputerGraphics.vcxproj -> C:\Users\cadet\project\Computer-Graphics\.git\ComputerGraphics\Debug\ComputerGraphics.pdb (Full PDB)
